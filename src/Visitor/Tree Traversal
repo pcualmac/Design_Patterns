@@ -1,0 +1,14 @@
+Retrospect - Traverse a Binary Tree
+
+Preorder Traversal:
+visit the root node, then traverse the left subtree and finally traverse the right subtree.
+
+Inorder Traversal:
+traverse the left subtree, then visit the root node and finally traverse the right subtree.
+
+Postorder Traversal:
+traverse the left subtree, then traverse the right subtree and finally visit the root node.
+
+Level-order Traversal: traverse the tree level by level.
+
+Convert a N-ary Tree to a Binary Tree
